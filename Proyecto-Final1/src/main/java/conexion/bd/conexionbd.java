@@ -15,7 +15,7 @@
     
     private conexionbd() {
         String usuario = "avnadmin";
-        //String contra = "la_contrasena"; //; //ingresa la contrasena del README//.
+        String contra = "AVNS_YmwLFO3Wb9B1o4Qqdbc"; // Cambia la contraseña.
         String bd = "defaultdb";      // Cambia el nombre de la base de datos.
         String ip = "mysql-programacionweb-tes-pweb.d.aivencloud.com";
         String puerto = "23988";
