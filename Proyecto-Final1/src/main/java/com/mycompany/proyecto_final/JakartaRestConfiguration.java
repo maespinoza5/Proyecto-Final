@@ -1,4 +1,4 @@
-package com.mycompany.proyecto.final1;
+package com.mycompany.proyecto_final;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

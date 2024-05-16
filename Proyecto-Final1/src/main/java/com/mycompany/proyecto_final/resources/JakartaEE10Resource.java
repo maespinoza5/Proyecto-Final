@@ -1,4 +1,4 @@
-package com.mycompany.proyecto.final1.resources;
+package com.mycompany.proyecto_final.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
